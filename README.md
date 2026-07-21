@@ -1,2 +1,2 @@
-#sistema de notas
-#este proyecto se esta usando comocodigo inicial visual basic estudio 
+SISTEMA DE NOTAS
+este proyecto esta realizado por un estudiante de arquitectura que busco una problematica para poder crear una solucion con una web
